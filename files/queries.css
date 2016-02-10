@@ -1,0 +1,297 @@
+/*QUERIES*/
+
+/*FOR SMALL SCREENS INC IPAD*/
+@media only screen  and (max-width : 1024px) {
+
+	#CountdownWrapper{
+		background-color: #FFFFFF;
+		border: medium none;
+		color: #04445E;
+		margin: 0 auto;
+		padding-top: 10px;
+		position: relative;
+		top: 454px;
+		height: 79px !important;
+		width: 400px !important; 
+
+	}
+
+	.contain-height{
+		max-width: 800px;
+	}
+
+	.wrapper{
+		max-width:1140px;
+	}
+
+	#pass2 img:first-child{ left: 0; width: 100%; top: 312px;}
+	#pass3 img:first-child{ left: 0; width: 100%;}
+	#pass1 img:first-child{
+		width: 100%;
+		top: 312px;
+		left: 0;
+
+	}
+
+	.form-box{
+		left: 20px !important;
+	}
+
+	.credits{
+		float: left;
+		margin-left: 20px;
+	}
+
+	.center-frame{
+		max-width: 868px;
+	}
+ 	
+	
+
+	.about{ height: 600px !important;}
+
+	.coda-slider-wrapper .coda-slider{
+		width: 800px;
+	}
+
+	.pola{ position: relative; top: 137px;}
+
+	.view{ margin: -8px -8px 27px; }
+
+	.button.button-style1{ display: none;}
+
+	
+
+}
+
+/*FOR IPAD VERTICAL*/
+@media only screen and ( min-width: 760px){
+	.left-credits, .right-credits{ max-width: 364px; }
+}
+
+/*FOR IPADS*/
+@media only screen and ( min-width: 980px ) and ( max-width: 1280px){
+	.left-credits, .right-credits{ max-width: 480px; }
+}
+
+/* FOR IPADS */
+@media only screen and (min-width: 771px) and (max-width : 1024px) {
+
+	.coda-slider-wrapper .coda-slider .panel{
+		max-width: 862px !important;
+	}
+
+}
+
+/* FOR IPADS */
+@media only screen  and (max-width : 770px) {
+
+	.coda-slider-wrapper .coda-slider .panel{
+		max-width: 747px !important;
+	}
+
+}
+
+/* Desktops and laptops ----------- */
+@media only screen and (min-width : 1224px) {
+/* Styles */
+
+.left-credits, .right-credits{ max-width: 560px; }
+
+	.welcome{
+		width: 90%;
+		max-width: 999px;
+		position: absolute;
+		left: 50%;
+		margin-left: -480px;
+		top: 10%;
+		z-index: 9;
+	}
+
+	#CountdownWrapper{
+		position: relative;
+		z-index: 99;
+		margin: 0 auto;
+		top: 73% !important;
+		width: 380px !important;
+		height: 90px !important;
+	}
+
+	.rsvp-button{
+		width: 357px;
+		margin: 0 auto;
+		display: block;
+		position: relative;
+		top: 50px;
+		left: 37px;
+	}
+
+	.button-style1{
+		display:block;
+		width:50px;
+		height:50px;
+		position:absolute;
+		bottom:0px;
+		left:48.2%;
+		background-color:#333333;
+	}
+
+	.contain-height img{
+		margin-top: 20px;
+
+	}
+
+	.about{
+		height: 700px;
+		margin-top: 0;
+	}
+
+
+	ul.pola li:nth-child(5){
+		visibility: hidden;
+
+	}
+}
+
+
+
+/* Large screens ----------- */
+
+@media only screen and (min-width : 1400px) {
+
+/* Styles */
+
+	.welcome{
+		width: 90%;
+		max-width: 999px;
+		position: absolute;
+		left: 50%;
+		margin-left: -480px;
+		top: 22%;
+		z-index: 9;
+	}
+
+	#CountdownWrapper{
+		position: relative;
+		z-index: 99;
+		margin: 0 auto;
+		top: 70% !important;
+		width: 380px !important;
+		height: 90px !important;
+	}
+
+	.rsvp-button{
+		width: 357px;
+		margin: 0 auto;
+		display: block;
+		position: relative;
+		top: 75px;
+		left: 22px;
+	}
+
+	.contain-height img{
+		margin-top: 85px;
+	}
+
+	#pass3 img:first-child{
+		top: 0;
+		left: 10% !important;
+	}
+
+	#the_ticket{
+		width: 500px !important;
+		bottom: 50px !important;
+	}
+
+	.pola{
+		position: relative;
+		right: 20px;
+		bottom: 100px;
+	}
+
+	.about{
+		height: 900px;
+	}
+
+	ul.pola li:nth-child(5){
+		right:125px !important;
+		visibility: visible;
+
+	}
+
+	ul.pola li:first-child{
+		right: 180px !important;
+	}
+
+	ul.pola li:nth-child(2){
+		right:-84px;
+	}
+	ul.pola li:nth-child(6){
+		right:500px;
+	}
+
+}
+
+
+
+/* LARGER screens ----------- */
+
+@media only screen and (min-width : 1900px) {
+
+/* Styles */
+
+#the_ticket{
+	width: 500px !important;
+	bottom: 50px !important;
+}
+
+.pola{
+	position: relative;
+	right: 40px;
+	bottom: 150px;
+}
+
+	#CountdownWrapper{
+		position: relative;
+		z-index: 99;
+		margin: 0 auto;
+		top: 70% !important;
+		left: 24px;
+		width: 380px !important;
+		height: 90px !important;
+	}
+
+	.rsvp-button{
+		width: 357px;
+		margin: 0 auto;
+		display: block;
+		position: relative;
+		top: 75px;
+		left: 0;
+	}
+
+	.button-style1{
+		display:block;
+		width:50px;
+		height:50px;
+		position:absolute;
+		bottom:0px;
+		left:48.6%;
+		background-color:#333333;
+	}
+	.contain-height img{
+		margin-top: 90px;
+	}
+
+	#pass3 img:first-child{
+		top: 0;
+		left: 15% !important;
+	}
+
+	.about{
+		height: 900px;
+	}
+
+
+}
+
