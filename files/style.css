@@ -778,7 +778,7 @@ form input[type="submit"]:hover{
 #slide1{
 
 	background-color:#000000;
-	background: url("http://sandbox.pm/casamiento/casamiento-noeyjony/images/inicio/slide4.jpg") no-repeat center center fixed !important; 
+	background: url("http://jbarad.github.io/casamiento-noeyjony/images/inicio/slide4.jpg") no-repeat center center fixed !important; 
 	-webkit-background-size: cover !important;
 	-moz-background-size: cover !important;
 	-o-background-size: cover !important;
@@ -909,7 +909,7 @@ section {
  SLIDE 3 
 *******************************/
 #slide3{
-background: url("http://sandbox.pm/casamiento/casamiento-noeyjony/images/slide3_background.jpg") repeat;
+background: url("http://jbarad.github.io/casamiento-noeyjony/images/slide3_background.jpg") repeat;
 
 /*overflow: hidden;*/
 }
@@ -1139,7 +1139,7 @@ ul.inline > li img{
 
 #slide4{
 
-	background:url(http://sandbox.pm/casamiento/casamiento-noeyjony/images/slide4_background.jpg) repeat white;
+	background:url(http://jbarad.github.io/casamiento-noeyjony/images/slide4_background.jpg) repeat white;
 
 }
 
@@ -1175,7 +1175,7 @@ ul.inline > li img{
 
 	background: white;
 
-	background:url(http://sandbox.pm/casamiento/casamiento-noeyjony/images/slide5_background.jpg);
+	background:url(http://jbarad.github.io/casamiento-noeyjony/images/slide5_background.jpg);
 
 	-webkit-background-size: cover;
 
@@ -1401,7 +1401,7 @@ div.text-center h1, div.text-center h2, div.text-center h3, div.text-center h4, 
 
 #slide6{
 
-	background:url(http://sandbox.pm/casamiento/casamiento-noeyjony/images/videoinvitacion_background.jpg);
+	background:url(http://jbarad.github.io/casamiento-noeyjony/images/videoinvitacion_background.jpg);
 
 	-webkit-background-size: cover;
 
