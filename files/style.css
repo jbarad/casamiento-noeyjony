@@ -925,8 +925,8 @@ background: url("http://jbarad.github.io/casamiento-noeyjony/images/slide3_backg
 
 ul.pola li:first-child{
 	position:absolute;
-	top: 327px;
-	right: 10px;
+	top: 380px;
+	right: 100px;
 
 	-webkit-transform: rotate(10deg);
 	-moz-transform: rotate(10deg);
@@ -936,8 +936,8 @@ ul.pola li:first-child{
 }
 ul.pola li:nth-child(2){
 	position:absolute;
-	top:60px;
-	right:0px;
+	top:55px;
+	right:100px;
 
 	-webkit-transform: rotate(-6deg);
 	-moz-transform: rotate(-6deg);
@@ -947,15 +947,19 @@ ul.pola li:nth-child(2){
 }
 ul.pola li:nth-child(3){
 	position: absolute;
-	right: 211px;
+	right: 350px;
 	top: 365px;
+
+	-webkit-transform: rotate(-6deg);
+	-moz-transform: rotate(-6deg);
+	-o-transform: rotate-(6deg);
+	-ms-transform: rotate(-6deg);
+	transform: rotate(-6deg);
 }
 ul.pola li:nth-child(4){
 	position:absolute;
-	top:108px;
-	right:229px;
-
-	z-index: 0;
+	top:70px;
+	right:350px;
 
 	-webkit-transform: rotate(6deg);
 	-moz-transform: rotate(6deg);
@@ -963,19 +967,6 @@ ul.pola li:nth-child(4){
 	-ms-transform: rotate(6deg);
 	transform: rotate(6deg);
 }
-ul.pola li:nth-child(5){
-	position:absolute;
-	top:165px;
-	right:390px;
-
-}
-
-ul.pola li:nth-child(6){
-	position:absolute;
-	top:120px;
-	right:420px;
-}
-
 
 ul.pola > li img:hover {
 	z-index: 99;
